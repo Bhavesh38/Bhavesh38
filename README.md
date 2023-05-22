@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/63_bhavesh" target="blank"><img src="https://img.shields.io/twitter/follow/63_bhavesh?logo=twitter&style=for-the-badge" alt="63_bhavesh" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Typescript and AI&ML**
+- 🌱 I’m currently learning AI&ML**
 
-- 👯 I’m looking to collaborate on [Resume Builder](https://github.com/Bhavesh38/Resme-Builder)
-
-- 💬 Ask me about **CPP,DSA,React,Js,Node**
+- 💬 Ask me about **CPP,DSA,React,Node**
 
 - 📫 How to reach me **bhavesh953475@gmail.com**
 
