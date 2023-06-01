@@ -35,7 +35,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh38&show_icons=true&locale=en&layout=compact" alt="bhavesh38" /></p>
 
-[![Bhavesh38's GitHub | Languages Over Time](https://stats.quine.sh/Bhavesh38/languages-over-time?theme=dark)](https://quine.sh)
+<p>[![Bhavesh38's GitHub | Languages Over Time](https://stats.quine.sh/Bhavesh38/languages-over-time?theme=dark)](https://quine.sh)</p>
+
+
 
 
 
