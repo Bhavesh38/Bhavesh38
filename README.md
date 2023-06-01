@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavesh38" alt="bhavesh38" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/63_bhavesh" target="blank"><img src="https://img.shields.io/twitter/follow/63_bhavesh?logo=twitter&style=for-the-badge" alt="63_bhavesh" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/63_bhavesh" target="blank"><img src="https://img.shields.io/twitter/follow/63_bhavesh?logo=twitter&style=for-the-badge" alt="63_bhavesh" /></a> </p> -->
 
-- 🌱 I’m currently learning AI&ML**
+<!-- - 🌱 I’m currently learning AI&ML**
 
 - 💬 Ask me about **CPP,DSA,React,Node**
 
-- 📫 How to reach me **bhavesh953475@gmail.com**
+- 📫 How to reach me **bhavesh953475@gmail.com** -->
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/63_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="63_bhavesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavesh-kumar-4a3b48209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-kumar-4a3b48209" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh38&show_icons=true&locale=en" alt="bhavesh38" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh38&" alt="bhavesh38" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh38&" alt="bhavesh38" /></p> -->
 
 
 
