@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and Problem Solver from India.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh38&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh38" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh38&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh38" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavesh38" alt="bhavesh38" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavesh38" alt="bhavesh38" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/63_bhavesh" target="blank"><img src="https://img.shields.io/twitter/follow/63_bhavesh?logo=twitter&style=for-the-badge" alt="63_bhavesh" /></a> </p> -->
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhavesh953475@gmail.com** -->
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit) -->
 
 <!--  <h3 align="left">Connect with me:</h3>
 <p align="left">
