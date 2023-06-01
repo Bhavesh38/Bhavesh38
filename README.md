@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and Problem Solver from India.</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh38&" alt="bhavesh38" /></p>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh38&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh38" /> </p>
 
@@ -42,7 +44,6 @@
 
 
 [![Bhavesh38's Stack Overflow](https://stats.quine.sh/Bhavesh38/stack-overflow?theme=dark)](https://quine.sh)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh38&" alt="bhavesh38" /></p>
 <!-- [![Bhavesh38's GitHub | Topics Over Time](https://stats.quine.sh/Bhavesh38/topics-over-time?theme=dark)](https://quine.sh) -->
 
 
