@@ -37,12 +37,12 @@
 
 
 
-[![Bhavesh38's GitHub | Stats](https://stats.quine.sh/Bhavesh38/github?theme=dark)](https://quine.sh) [![Bhavesh38's Stack Overflow](https://stats.quine.sh/Bhavesh38/stack-overflow?theme=dark)](https://quine.sh)
+[![Bhavesh38's GitHub | Stats](https://stats.quine.sh/Bhavesh38/github?theme=dark)](https://quine.sh) 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh38&show_icons=true&locale=en" alt="bhavesh38" /></p>
 
 
-
+[![Bhavesh38's Stack Overflow](https://stats.quine.sh/Bhavesh38/stack-overflow?theme=dark)](https://quine.sh)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh38&" alt="bhavesh38" /></p>
-[![Bhavesh38's GitHub | Topics Over Time](https://stats.quine.sh/Bhavesh38/topics-over-time?theme=dark)](https://quine.sh)
+<!-- [![Bhavesh38's GitHub | Topics Over Time](https://stats.quine.sh/Bhavesh38/topics-over-time?theme=dark)](https://quine.sh) -->
 
 
