@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **bhavesh953475@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit](https://docs.google.com/document/d/1_eNUD8c9IL_5nwnWWic6k6dhUGQeOMuIdeuoFTZ6pxA/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/63_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="63_bhavesh" height="30" width="40" /></a>
